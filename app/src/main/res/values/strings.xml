@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AndroidCalculator</string>
+    <string name="user_prompt">Please Press Button</string>
 </resources>
