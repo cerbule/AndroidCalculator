@@ -18,7 +18,7 @@
         android:id="@+id/frag_input"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:name="com.alin.androidcalculator.DisplayFragment"
+        android:name="com.alin.androidcalculator.InputFragment"
         tools:layout="@layout/fragment_input"
         android:layout_below="@+id/frag_display"
         />
